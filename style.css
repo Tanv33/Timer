@@ -1,0 +1,23 @@
+h2 {
+    display: inline;
+    margin: 2px;
+    font-size: xx-large;
+}
+
+* {
+    text-align: center;
+    background-color: turquoise;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    background-color: white;
+    color: teal;
+}
+
+button:hover {
+    background-color: darkseagreen;
+    color: whitesmoke;
+}
